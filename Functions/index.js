@@ -1,5 +1,5 @@
 //llamar y importar a un archivo o funcciones 
-const math = require('./math.js ');
+const math = require('./math.js');
 
 // mirar los typos de funcciones 
 console.log(math);
