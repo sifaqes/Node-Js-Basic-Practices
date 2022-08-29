@@ -3,7 +3,8 @@ This Nodejs course is a practical introduction for Web Developers, who aim to cr
 
 ## Contenido
 * hola-mundo
-* Funcciones operacionales : Add, sub, Mult, Div
+* Funcciones operacionales
+Add, sub, Mult, Div
 Adimas como exportar funcciones desde otros archivos y  arancarlos en  un variable (exportar modulos objetos, variables ....).
 
 ## Contacto
