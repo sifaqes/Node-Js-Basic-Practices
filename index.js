@@ -1,25 +1,13 @@
-function add(x1, x2) {
-    return x1 + x2;
-}
+//llamar y importar a un archivo o funcciones 
+const math = require('./math.js ');
 
-function substract(x1, x2) {
-    return x1 - x2;
-}
+// mirar los typos de funcciones 
+console.log(math);
 
-function multiply(x1, x2) {
-    return x1 * x2;
-}
-
-function divide(x1, x2) {
-    if (x2 == 0) {
-        console.log('No se puede dividir por 0');
-    } else {
-        return x1 / x2;
-
-    }
-}
-
-console.log(add(1, 2));
-console.log(substract(5, 2));
-console.log(multiply(1, 2));
-console.log(divide(1, 2));
+//llamar los funciones 
+console.log(
+    math.add(1, 2),
+    math.substract(5, 2),
+    math.multiply(2, 2),
+    math.divide(1, 2)
+);
