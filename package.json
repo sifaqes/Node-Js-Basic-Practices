@@ -1,5 +1,31 @@
 {
-  "dependencies": {
-    "color": "^4.2.3"
-  }
+    "dependencies": {
+        "color": "^4.2.3",
+        "colors": "^1.4.0"
+    },
+    "name": "js-basic-practices",
+    "description": "This Nodejs course is a practical introduction for Web Developers, who aim to create Backend applications, using the language they already know: Javascript.  Nodejs is a runtime environment that allows the creation of desktop applications, server applications and mobile applications using Javascript.",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sifaqes/Node-Js-Basic-Practices.git"
+    },
+    "author": "zerrouki sifaqes",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sifaqes/Node-Js-Basic-Practices/issues"
+    },
+    "homepage": "https://github.com/sifaqes/Node-Js-Basic-Practices#readme",
+    "keywords": [
+        "Nodejs",
+        "node",
+        "js",
+        "npm"
+    ]
 }
